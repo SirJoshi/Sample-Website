@@ -1,0 +1,23 @@
+body {
+  background-color: seagreen;
+}
+
+p	{
+   color: white;
+   margin-left: 2px;
+   font-size: 14px;
+}
+
+
+h1	{
+   color: fuchsia;
+   margin-left: 1px;
+   font-size: 26px;
+
+}
+
+a	{
+   color: black;
+   margin-left: 2px;
+   font-size: 14px;
+}
